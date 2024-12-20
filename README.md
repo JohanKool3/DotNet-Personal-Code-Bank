@@ -8,6 +8,7 @@ These sections have been written in the order of the following article https://w
 # Table of Contents
 
 1. [If and Else](#if_and_else)
+1. [Switch and Case](#switch_and_case)
 
 
 ## If and Else <a name="if_and_else"></a>
@@ -20,3 +21,15 @@ I have used If and Else statements here to handle the following logic
 - Has the User won the game (guessed the correct number)
 - If they haven't
 	- Have they guessed Lower than the number or higher than the number
+
+
+## Switch and Case <a name="switch_and_case"></a>
+
+The project to showcase this is  the **SimpleMenuSystem.Cli** project. This is a 
+simple system that takes a user input, validates it and then performs an action
+based on the user's option.
+
+Using a switch case statement here allows:
+- Actions to be performed based on an extendable varienty of options
+- An easier to read layout compared to a large if, else if , else block
+- Ensures that there are cases for each scenario (the compiler helps here)
