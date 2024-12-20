@@ -3,6 +3,8 @@
 This project is a collection of each concept of C# so that I have a frame of reference for
 what I know and what I do not.
 
+These sections have been written in the order of the following article https://www.scholarhat.com/tutorial/csharp/csharp12-developer-roadmap
+
 # Table of Contents
 
 1. [If and Else](#if_and_else)
