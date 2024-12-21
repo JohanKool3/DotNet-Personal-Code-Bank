@@ -9,6 +9,7 @@ These sections have been written in the order of the following article https://w
 
 1. [If and Else](#if_and_else)
 1. [Switch and Case](#switch_and_case)
+1. [For Loop](#for_loop_)
 
 
 ## If and Else <a name="if_and_else"></a>
@@ -33,3 +34,12 @@ Using a switch case statement here allows:
 - Actions to be performed based on an extendable varienty of options
 - An easier to read layout compared to a large if, else if , else block
 - Ensures that there are cases for each scenario (the compiler helps here)
+
+## For Loop <a name="for_loop"></a>
+
+The project to showcase this is the **ShoppingListManager.Cli** project. This is a 
+system that has taken the lesson learnt from the <a href="#switch_and_case" >Switch and Case</a>
+project for its menu system.
+
+The main use of the **for loop** here is to iterate over the items in the shopping list and 
+output them to the user.
