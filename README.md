@@ -9,7 +9,7 @@ These sections have been written in the order of the following article https://w
 
 1. [If and Else](#if_and_else)
 1. [Switch and Case](#switch_and_case)
-1. [For Loop](#for_loop_)
+1. [For Loop](#for_loop)
 
 
 ## If and Else <a name="if_and_else"></a>
