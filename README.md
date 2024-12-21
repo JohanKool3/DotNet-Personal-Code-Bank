@@ -5,11 +5,11 @@ what I know and what I do not.
 
 These sections have been written in the order of the following article https://www.scholarhat.com/tutorial/csharp/csharp12-developer-roadmap
 
-# Table of Contents
+# Table of Projects
 
-1. [If and Else](#if_and_else)
-1. [Switch and Case](#switch_and_case)
-1. [For Loop](#for_loop)
+1. [If and Else (Basic Syntax)](#if_and_else)
+2. [Switch and Case (Basic Syntax)](#switch_and_case)
+3. [For Loop (Basic Syntax)](#for_loop)
 
 
 ## Basic Syntax
@@ -46,3 +46,5 @@ project for its menu system.
 
 The main use of the **for loop** here is to iterate over the items in the shopping list and 
 output them to the user.
+
+## Functions and Methods
