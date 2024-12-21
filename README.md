@@ -10,6 +10,7 @@ These sections have been written in the order of the following article https://w
 1. [If and Else (Basic Syntax)](#if_and_else)
 2. [Switch and Case (Basic Syntax)](#switch_and_case)
 3. [For Loop (Basic Syntax)](#for_loop)
+4. [Method Overloads (Functions and Methods)](#method_overloads) 
 
 
 ## Basic Syntax
@@ -48,3 +49,13 @@ The main use of the **for loop** here is to iterate over the items in the shoppi
 output them to the user.
 
 ## Functions and Methods
+
+### Method Overloads <a name="method_overloads"></a>
+
+The project to showcase this is the **SimpleCalculator.Cli** project. In this
+project, I finally extracted some validation logic and put it into a new
+class library called **Validators.Library**. This will serve as a place to store
+commonly used logic for validation into the future.
+
+Using this library, I created an overload of the *ValidateOption* method
+to accept float values for use in the calculator.

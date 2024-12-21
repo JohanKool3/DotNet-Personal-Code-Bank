@@ -14,6 +14,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleMenuSystem.Cli", "Sim
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingListManager.Cli", "ShoppingListManager.Cli\ShoppingListManager.Cli.csproj", "{DC187748-1855-440C-9183-01DD5F3ACF09}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCalculator.Cli", "SimpleCalculator.Cli\SimpleCalculator.Cli.csproj", "{185DB1D5-C6C4-420F-B539-3DDDD7C43788}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Validators.Library", "Validators.Library\Validators.Library.csproj", "{FED8A8BF-05F4-4C36-B704-48F1B6AB4017}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,6 +36,14 @@ Global
 		{DC187748-1855-440C-9183-01DD5F3ACF09}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC187748-1855-440C-9183-01DD5F3ACF09}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC187748-1855-440C-9183-01DD5F3ACF09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{185DB1D5-C6C4-420F-B539-3DDDD7C43788}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{185DB1D5-C6C4-420F-B539-3DDDD7C43788}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{185DB1D5-C6C4-420F-B539-3DDDD7C43788}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{185DB1D5-C6C4-420F-B539-3DDDD7C43788}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FED8A8BF-05F4-4C36-B704-48F1B6AB4017}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FED8A8BF-05F4-4C36-B704-48F1B6AB4017}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FED8A8BF-05F4-4C36-B704-48F1B6AB4017}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FED8A8BF-05F4-4C36-B704-48F1B6AB4017}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
